@@ -1,6 +1,73 @@
-title: Jamil Hamad
-logo: //github.com/jamilhmd/DataSciencePortfolio_jamil-hamad/blob/main/aa.png
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="hema kalyan, portfolio, kalyan,Machine Learning , personal portfolio lifecodes, portfolio design, portfolio website, personal portfolio" />
+    <meta name="description" content="Welcome to Hema Kalyn's Portfolio. Machine Learning Enthusiast"/>
+    <link rel="stylesheet" href="./assets/css/style.css">     <!-- Custom CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link id='favicon' rel="shortcut icon" href="./assets/images/favicon.png" type="image/x-png">
+    <title>Hema Kalyan Portfolio</title>
+</head>
+
+
+
+<!-- Google tag (gtag.js) Starts -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNBQXGQJJF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JNBQXGQJJF');
+</script>
+</head>
+<body oncontextmenu="return false">
+<!-- Google tag (gtag.js) Ends -->
+
+
+
+<!-- navbar starts -->
+<header>
+  <a href="/" class="logo"><i class="fas fa-cog fa-pulse"></i> M H K</a>
+        <div id="menu" class="fas fa-bars"></div>
+        <nav class="navbar">
+            <ul>
+            <li><a class="active" href="#home">Home</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#blogs">Articles & Blogs</a></li>
+            <li><a href="#skills">Skills</a></li>
+            </ul>
+        </nav>
+</header>
+
+
+<br><br>
+<!-- hero section starts -->
+<section class="home" id="home">
+    <div id="particles-js"></div>
+    <div class="content">
+    <h2>Hi There,<br/> I'm<span> Hema Kalyan</span></h2>
+    <p>i am into <span class="typing-text"></span></p>
+    <a href="#about" class="btn"><span>About Me</span>
+      <i class="fas fa-arrow-circle-down"></i>
+    </a>
+    <div class="socials">
+        <ul class="social-icons">
+          <li><a class="linkedin" aria-label="LinkedIn" href="https://www.linkedin.com/in/hemakalyanmurapaka2610/" target="_blank"><i class="fab fa-linkedin"></i></a></li> 
+          <li><a class="github" aria-label="GitHub" href= "https://github.com/KalyanMurapaka45" target="_blank"><i class="fab fa-github"></i></a></li>
+          <li><a class="dev" aria-label="Medium" href="https://medium.com/@kalyanmurapaka274" target="_blank"><i class="fab fa-medium-m"></i></a></li>
+          <li><a class="dev" aria-label="Kaggle" href="https://www.kaggle.com/kalyanmurapaka" target="_blank"><i class="fab fa-kaggle"></i></a></li>
+          <li><a class="dev" aria-label="Kaggle" href="https://www.upwork.com/freelancers/~017c2a70226d438c81" target="_blank"><i class="fas fa-briefcase"></i></a></li>
+        </ul>
+      </div>
+    </div>
+<div class="image">
+    <img draggable="false" class="tilt" src="./assets/images/hero.jpg" alt="Hema Kalyan Murapaka">
+</div>
+</section>
+<!-- hero section ends -->
