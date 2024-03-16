@@ -1,9 +1,0 @@
-title: Portfolio de Jamil Hamad
-email: votre-email@example.com
-description: > # Cette ligne doit être suivie d'une description sur plusieurs lignes.
-  Ceci est mon portfolio personnel où je présente mes projets de data science.
-baseurl: ""
-url: "https://username.github.io"
-
-# Build settings
-theme: minima
